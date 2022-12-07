@@ -1,11 +1,11 @@
 {
   "description": "Sample Shopping Cart to Explore using RTK",
   "version": "0.2.0",
-  "homepage": "https://gitname.github.io/ts-redux-shopping-cart",
+  "homepage": "https://legiaquan.github.io/ts-redux-shopping-cart",
   "scripts": {
     "dev": "vite",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d dist",
     "build": "tsc && vite build",
     "serve": "vite preview"
   },
